@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace RestExNunit
 {
     [TestFixture]
-    internal class ReqResAPITests
+    public class ReqResAPITests
     {
         private RestClient client;
         private string baseUrl = "https://reqres.in/api/";
