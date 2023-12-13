@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestEx", "RestEx\RestEx.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment", "Assignment\Assignment.csproj", "{360FCCE0-0885-4E42-B507-E6B807CAF446}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestExNunit", "RestExNuint\RestExNunit.csproj", "{1CB69D07-6C79-4B33-AB0A-7538629029AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestExNunit", "RestExNuint\RestExNunit.csproj", "{1CB69D07-6C79-4B33-AB0A-7538629029AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitAssignment", "NUnitAssignment\NUnitAssignment.csproj", "{FF8B737F-77FB-4DAC-B640-0D6DA58148F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitAssignment", "NUnitAssignment\NUnitAssignment.csproj", "{FF8B737F-77FB-4DAC-B640-0D6DA58148F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonAssignment", "JsonAssignment\JsonAssignment.csproj", "{3A00D52F-4672-4583-BA5D-1DE38F605F81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FF8B737F-77FB-4DAC-B640-0D6DA58148F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF8B737F-77FB-4DAC-B640-0D6DA58148F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF8B737F-77FB-4DAC-B640-0D6DA58148F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A00D52F-4672-4583-BA5D-1DE38F605F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A00D52F-4672-4583-BA5D-1DE38F605F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A00D52F-4672-4583-BA5D-1DE38F605F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A00D52F-4672-4583-BA5D-1DE38F605F81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
